@@ -1,0 +1,36 @@
+.grid {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    border-style: solid;
+    background-color:#FAE8E0;
+  }
+  
+  .grid div {
+    width: 40px;
+    height: 40px;
+    ;
+  }
+  
+  .snake {
+    background-color: #d4d086;
+    
+    
+  }
+  
+  .apple {
+    background-color: #b41f3c;
+  }
+
+button {
+  	background-color:#d4d086;
+	border-radius:37px;
+	display:inline-block;
+	cursor:pointer;
+	color: #000000;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+}
